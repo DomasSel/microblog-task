@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.task.dto.BlogDto;
 import com.task.entity.Blog;
-import com.task.entity.Role;
 import com.task.entity.User;
 import com.task.repo.BlogRepository;
 import com.task.repo.UserRepository;
